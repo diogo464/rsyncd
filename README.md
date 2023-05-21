@@ -1,8 +1,8 @@
-= rsync
+# rsync
 
 This repo contains a single alpine container with rsync installed.
 
-== Usage
+## Usage
 
 ```bash
 docker run --name rsyncd                    \
